@@ -15,7 +15,7 @@
 
 🧰 **Tech Stack**
 
-```json
+
 {
   "Languages": ["Python", "JavaScript", "C++", "SQL"],
   "Frameworks & Tools": ["Flask", "Next.js", "Firebase", "Tailwind CSS", "MySQL"],
